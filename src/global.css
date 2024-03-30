@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Calibri:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-calibri: Calibri;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-4xs: 9px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-dimgray: #545454;
+  --color-white: #fff;
+  --color-mediumaquamarine: #48b79c;
+  --color-slategray: #73808d;
+  --color-darkslategray: #343434;
+  --color-gray-100: #fafafa;
+  --color-gray-200: rgba(0, 0, 0, 0.8);
+  --color-lightgray: #cecaca;
+  --color-silver-100: rgba(196, 196, 196, 0.35);
+  --color-gainsboro: #e5e5e5;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+}
