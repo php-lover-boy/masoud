@@ -149,7 +149,7 @@ const CVResume: FunctionComponent = () => {
             </div>
             <div className={styles.newYork1}>2011-2015, Tehran</div>
           </div>
-          
+          </div>
         <div className={styles.mySkill}>
           <div className={styles.mySkills}>
             <div className={styles.experienceChild} />
