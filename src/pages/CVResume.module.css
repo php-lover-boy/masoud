@@ -499,13 +499,13 @@
   position: absolute;
   top: 36px;
   left: 0;
-  width: 294px;
+  width: 308px;
   height: 48px;
 }
 .education,
 .njit {
   top: 96px;
-  width: 115px;
+  width: 308px;
 }
 .education {
   top: 253px;

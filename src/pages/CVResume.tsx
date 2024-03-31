@@ -134,13 +134,13 @@ const CVResume: FunctionComponent = () => {
             <div className={styles.experience2}>EDUCATION</div>
             <div className={styles.experienceItem} />
           </div>
-          <div className={styles.njit}>
+          <div className={styles.beInIt}>
             <b className={styles.bachelorOfEngineering}>{`Master’s degree in Computer Systems and Architecture Engineering.`}</b>
             <div className={styles.seniourUiDesigner}>Shahed University</div>
             <div className={styles.newYork1}>2015-2017, Tehran</div>
           </div>
         
-          <div className={styles.beInIt}>
+          <div className={styles.njit}>
             <b
               className={styles.bachelorOfEngineering}
             >{`Bachelor’s degree in Computer Hardware.`}</b>
