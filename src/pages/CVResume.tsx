@@ -36,7 +36,7 @@ const CVResume: FunctionComponent = () => {
         <div className={styles.social}>
           <div className={styles.socialChild} />
           <b className={styles.social1}>Social</b>
-          <div className={styles.userInterface}>Yoursitename.com</div>
+          <div className={styles.userInterface}>https://masoud-zivari.vercel.app/</div>
           <div className={styles.userExperience}>https://www.linkedin.com/in/masoud-zivari/</div>
 
         </div>
@@ -91,7 +91,7 @@ const CVResume: FunctionComponent = () => {
         <div className={styles.profile}>
           <div className={styles.Masoud}>Masoud</div>
           <div className={styles.Zivari}>Zivari</div>
-          <b className={styles.uiuxDesigner}>Full stack Web Developer</b>
+          <b className={styles.uiuxDesigner}>Web Developer</b>
           <img className={styles.images1Icon} alt="" src="/images-1@2x.png" />
         </div>
       </div>
