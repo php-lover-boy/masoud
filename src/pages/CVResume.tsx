@@ -75,7 +75,7 @@ const CVResume: FunctionComponent = () => {
         <div className={styles.yourSite}>
           <div className={styles.yourMailChild} />
           <div className={styles.m20zivarigmailcom}>
-          https://masoud-zivari.vercel.app/
+          masoud-zivari.vercel.app/
           </div>
           <img className={styles.mdiMailIcon} alt="" src="/website.svg" />
         </div>
