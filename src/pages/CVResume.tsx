@@ -135,7 +135,7 @@ const CVResume: FunctionComponent = () => {
             <div className={styles.experienceItem} />
           </div>
           <div className={styles.njit}>
-            <b className={styles.bachelorOfEngineering}>{`masters in computer systems and architecture engineering `}</b>
+            <b className={styles.bachelorOfEngineering}>{`Master’s degree in Computer Systems and Architecture Engineering.`}</b>
             <div className={styles.seniourUiDesigner}>Shahed University</div>
             <div className={styles.newYork1}>2015-2017, Tehran</div>
           </div>
@@ -143,7 +143,7 @@ const CVResume: FunctionComponent = () => {
           <div className={styles.beInIt}>
             <b
               className={styles.bachelorOfEngineering}
-            >{`Bachelor of Engineering in computer hardware `}</b>
+            >{`Bachelor’s degree in Computer Hardware.`}</b>
             <div className={styles.seniourUiDesigner}>
               Shahid Beheshti University
             </div>
