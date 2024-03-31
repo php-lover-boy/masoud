@@ -75,7 +75,7 @@ const CVResume: FunctionComponent = () => {
         <div className={styles.yourSite}>
           <div className={styles.yourMailChild} />
           <div className={styles.m20zivarigmailcom}>
-          masoud-zivari.vercel.app/
+          masoud-zivari.vercel.app
           </div>
           <img className={styles.mdiMailIcon} alt="" src="/website.svg" />
         </div>
@@ -134,15 +134,12 @@ const CVResume: FunctionComponent = () => {
             <div className={styles.experience2}>EDUCATION</div>
             <div className={styles.experienceItem} />
           </div>
-          <div className={styles.MSInIt}>
-            <b
-              className={styles.bachelorOfEngineering}
-            >{`Master of Engineering in computer systems and architecures `}</b>
-            <div className={styles.seniourUiDesigner}>
-              Shahed University
-            </div>
+          <div className={styles.njit}>
+            <b className={styles.bachelorOfEngineering}>{`masters in computer systems and architecture engineering `}</b>
+            <div className={styles.seniourUiDesigner}>Shahed University</div>
             <div className={styles.newYork1}>2015-2017, Tehran</div>
           </div>
+        </div>
           <div className={styles.beInIt}>
             <b
               className={styles.bachelorOfEngineering}
@@ -152,12 +149,7 @@ const CVResume: FunctionComponent = () => {
             </div>
             <div className={styles.newYork1}>2011-2015, Tehran</div>
           </div>
-          <div className={styles.njit}>
-            <b className={styles.bachelorOfEngineering}>{`NJIT Higher `}</b>
-            <div className={styles.seniourUiDesigner}>shahid rajaie</div>
-            <div className={styles.newYork1}>2009-2011, Tehran</div>
-          </div>
-        </div>
+          
         <div className={styles.mySkill}>
           <div className={styles.mySkills}>
             <div className={styles.experienceChild} />
