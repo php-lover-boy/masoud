@@ -36,7 +36,7 @@ const CVResume: FunctionComponent = () => {
         <div className={styles.social}>
           <div className={styles.socialChild} />
           <b className={styles.social1}>Social</b>
-          <div className={styles.userInterface}>https://masoud-zivari.vercel.app/</div>
+          <div className={styles.userInterface}>https://github.com/php-lover-boy/</div>
           <div className={styles.userExperience}>https://www.linkedin.com/in/masoud-zivari/</div>
 
         </div>
